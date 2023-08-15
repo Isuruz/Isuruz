@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isuruz
 - 👀 I’m interested in programming & new techonologies
-- 🌱 I’m currently learning Python,JS
+- 🌱 I’m currently learning Python & JS
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
